@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>678681639003-13aa27dj3973k6v2iv6l02mj08aneg3b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.678681639003-13aa27dj3973k6v2iv6l02mj08aneg3b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQHDvfQ6xoSabVLr-C3fQDYHqQswk2kiI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>678681639003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Marks.www.Mapd36-lee</string>
+	<key>PROJECT_ID</key>
+	<string>calendar-test-34f7a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>calendar-test-34f7a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:678681639003:ios:b4e9ffeadd070aee75e77e</string>
+</dict>
+</plist>
